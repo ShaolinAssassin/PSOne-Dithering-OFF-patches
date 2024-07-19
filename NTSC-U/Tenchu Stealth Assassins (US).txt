@@ -1,0 +1,14 @@
+Disable dithering hack
+$SAFEMODE
+
+#Tenchu Stealth Assassins (US) (SLUS-00706)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES by Shenmue_Trilogy
+----------------------------------------------------------------------------------------
+//Disable dithering (comment : this code is not compatible with the widescreen code)
+3007D42D 0000
+
+----------------------------------------------------------------------------------------
+HEXADECIMAL VALUES by
+----------------------------------------------------------------------------------------
+
