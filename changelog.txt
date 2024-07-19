@@ -1,6 +1,7 @@
 Last archive update : 2024/07/19 (YYYY/MM/DD) 
 ~shaolinassassin @https://forums.pcsx2.net/Thread-PSOne-Dithering-OFF-patches
 
++ 2024/07/19 - additions :
 *	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.0) [Chinese Translated] - PPF file
 *	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.0) - PPF file
 *	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.1) - PPF file
