@@ -18,6 +18,7 @@ PSOne Dithering OFF Archive - All patches list - 2024/07/19 (YYYY/MM/DD)
 *	Apocalypse (US) - GS/AR code
 *	Army Men World War Final Front (US) - GS/AR code
 *	Army Men World War Land, Sea, Air (US) - GS/AR code
+*	Beyblade (US) - GS/AR code
 *	Biohazard Gunsurvivor (JP) - GS/AR code
 *	Boombots (US) - GS/AR code
 *	C3 Racing (UK-FR-DE-IT-ES) - GS/AR code
@@ -145,6 +146,7 @@ PSOne Dithering OFF Archive - All patches list - 2024/07/19 (YYYY/MM/DD)
 *	Monkey Hero (UK-FR-DE-IT) - GS/AR code
 *	Monkey Hero (US) - GS/AR code
 *	Monkey Hero (USA) - PPF file
+*	Mortal Kombat 4 (US) - GS/AR code
 *	Moto Racer (Europe) (En,Fr,De,Es,It,Sv) - PPF file
 *	Moto Racer (USA) - PPF file
 *	Moto Racer 2 (Europe) (En,Fr,De,Es,It,Sv) - PPF file
@@ -248,5 +250,6 @@ PSOne Dithering OFF Archive - All patches list - 2024/07/19 (YYYY/MM/DD)
 *	WipEout 2097 (UK) - GS/AR code
 *	Wipeout XL (US) - GS/AR code
 *	WWF Smackdown (US) - GS/AR code
+*	WWF SmackDown! 2 Know Your Role (US) - GS/AR code
 
 [EOF]
