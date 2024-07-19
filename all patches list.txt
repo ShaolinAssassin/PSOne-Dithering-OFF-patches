@@ -1,0 +1,183 @@
+PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD) 
+~shaolinassassin @https://forums.pcsx2.net/Thread-PSOne-Dithering-OFF-patches
+
+*	Ace Combat 3 Electrosphere (UK-FR-DE-IT-ES) - GS/AR code
+*	Akuji The Heartless (UK-FR-DE) - GS/AR code
+*	Alien Resurrection (US) - GS/AR code
+*	Apocalypse (DE) - GS/AR code
+*	Apocalypse (FR) - GS/AR code
+*	Apocalypse (UK) - GS/AR code
+*	Apocalypse (US) - GS/AR code
+*	Army Men World War Final Front (US) - GS/AR code
+*	Army Men World War Land, Sea, Air (US) - GS/AR code
+*	Biohazard Gunsurvivor (JP) - GS/AR code
+*	Boombots (US) - GS/AR code
+*	C3 Racing (UK-FR-DE-IT-ES) - GS/AR code
+*	Castlevania Chronicle (Akumajou Dracula) (JP) - GS/AR code
+*	Castlevania Symphony of the Night (Akumajou Dracula X Gekka no Yasoukyoku) (JP) - GS/AR code
+*	Castlevania Symphony of the Night (US) - GS/AR code & Hex code for ELF file & Hex code for iso file
+*	Chaos Break (JP) - GS/AR code
+*	Chaos Break (UK-FR-DE-IT) - GS/AR code
+*	Colin McRae Rally 2.0 (v1.0) (UK-FR-DE-IT-ES) - GS/AR code
+*	Colin McRae Rally 2.0 (v1.1) (UK-FR-DE-IT-ES) - GS/AR code 
+*	Cool Boarders (UK) - GS/AR code
+*	Cool Boarders 2 (UK) - GS/AR code
+*	Crash Bandicoot (JP) - GS/AR code
+*	Crash Bandicoot (UK) - GS/AR code
+*	Crash Bandicoot (US) - GS/AR code
+*	Crash Bandicoot 2 (Cortex no Gyakushuu) (JP) - GS/AR code
+*	Crash Bandicoot 2 Cortex Strikes Back (UK-FR-DE-IT-ES) - GS/AR code
+*	Crash Bandicoot 2 Cortex Strikes Back (US) - GS/AR code
+*	Crash Bandicoot 3 (Buttobi Sekai Isshuu) (JP) - GS/AR code
+*	Crash Bandicoot 3 Warped (UK-FR-DE-IT-ES) - GS/AR code
+*	Crash Bandicoot 3 Warped (US) - GS/AR code
+*	Croc 2 (UK-FR-DE-IT-ES-NL-SW) - GS/AR code
+*	Croc Legend Of Gobbos (UK) - GS/AR code
+*	Croc Legend of the Gobbos (US) - GS/AR code
+*	CTR Crash Team Racing (UK-FR-DE-IT-ES-NL) - GS/AR code
+*	CTR Crash Team Racing (US) - GS/AR code
+*	Destruction Derby 2 (UK) - GS/AR code
+*	Devil man (JP) - GS/AR code
+*	Dino Crisis (US) - GS/AR code
+*	Disneyn Tarzan (FI) - GS/AR code
+*	Driver (DE) - GS/AR code
+*	Driver (ES) - GS/AR code
+*	Driver (FR) - GS/AR code 
+*	Driver (IT) - GS/AR code
+*	Driver (UK) - GS/AR code & Hex code for iso file
+*	Driver 2 Back on the Streets (ES) - GS/AR code 
+*	Driver 2 Back on the Streets (FR) - GS/AR code 
+*	Driver 2 Back on the Streets (IT) - GS/AR code 
+*	Driver 2 Back on the Streets (v1.0) (DE) - GS/AR code 
+*	Driver 2 Back on the Streets (v1.0) (UK) - GS/AR code 
+*	Driver 2 Back on the Streets (v1.0) (US) - GS/AR code
+*	Driver 2 Back on the Streets (v1.1) (DE) - GS/AR code
+*	Driver 2 Back on the Streets (v1.1) (UK) - GS/AR code 
+*	Driver 2 Back on the Streets (v1.1) (US) - GS/AR code 
+*	Fear Effect (US) - GS/AR code 
+*	Ganbare Goemon Uchuu Kaizoku Akogingu (JP) - GS/AR code
+*	Ghost In The Shell (FR) - GS/AR code
+*	Ghost in the Shell (US) - GS/AR code
+*	Gradius Gaiden (JP) - GS/AR code
+*	Gran Turismo (JP) -  GS/AR code 
+*	Gran Turismo (UK-FR-DE-IT-ES) -  GS/AR code 
+*	Gran Turismo (v1.0) (US) -  GS/AR code
+*	Gran Turismo (v1.1) (US) -  GS/AR code 
+*	Gran Turismo 2 (UK-FR-DE-IT-ES) -  GS/AR code
+*	Grandia (FR) - GS/AR code
+*	Grandia (JP) - GS/AR code
+*	Grandia (UK) - GS/AR code
+*	Grandia (US) - GS/AR code
+*	Hokuto no Ken Seikimatsu Kyuuseishu Densetsu (JP) -  GS/AR code
+*	In Cold Blood (US) - GS/AR code
+*	Legacy of Kain Soul Reaver (UK) - GS/AR code
+*	Legacy of Kain Soul Reaver (US) - GS/AR code
+*	LEGO Racers (DA-DU-UK-FI-FR-DE-IT-NW-ES-SW) - GS/AR code
+*	Lucky Luke Western Fever (UK-FR-DE-IT-ES-NL) - GS/AR code
+*	Max Power Racing (UK) - GS/AR code
+*	Medal of Honor (UK) - GS/AR code
+*	Medal of Honor (US) - GS/AR code
+*	MediEvil (FR) - GS/AR code (ASM)
+*	MediEvil (Regist. Us. Demo 02) (UK) -  GS/AR code
+*	MediEvil 2 (US) - GS/AR code
+*	Metal Gear Solid (DE) - GS/AR code (ASM)
+*	Metal Gear Solid (ES) - GS/AR code (ASM)
+*	Metal Gear Solid (FR) - GS/AR code (no-ASM version)
+*	Metal Gear Solid (IT) - GS/AR code (ASM)
+*	Metal Gear Solid (UK) - GS/AR code (ASM)
+*	Metal Gear Solid (v1.0) (US) - GS/AR code (ASM)
+*	Metal Gear Solid (v1.1) (US) - GS/AR code (ASM)
+*	Misadventures of Tron Bonne (UK) - GS/AR code
+*	Mobil 1 Rally Championship (UK-FR-DE-IT-ES) - GS/AR code
+*	Monkey Hero (UK-FR-DE-IT) - GS/AR code
+*	Monkey Hero (US) - GS/AR code
+*	Moto Racer 2 (UK-FR-DE-IT-ES-SW) - GS/AR code
+*	Motocross Mania (US) - GS/AR code
+*	Motor Toon Grand Prix (JP) - GS/AR code
+*	N-Gen Racing (UK-FR-DE-IT-ES) - GS/AR code
+*	Pet in TV Ton Nouveau Meilleur Ami (FR) - GS/AR code
+*	Radikal Bikers (UK-FR-DE-IT-ES) - GS/AR code
+*	Rage Racer (UK) - GS/AR code
+*	Rat Attack (UK-FR-DE-IT-ES-NL) - GS/AR code
+*	Resident Evil (US) - GS/AR code
+*	Resident Evil Survivor (US) - GS/AR code
+*	Ridge Racer (JP) - GS/AR code
+*	Ridge Racer Hi-Spec (UK) - GS/AR code
+*	Ridge Racer Type 4 (UK-FR-DE-IT-ES) - GS/AR code
+*	Road Rash 3D (FR) - GS/AR code
+*	Roadsters (UK-FR-DE-IT-ES) - GS/AR code
+*	Silent Hill (UK-FR-DE-IT-ES) - GS/AR code
+*	Silent Hill (US) - GS/AR code
+*	Soul Blade (UK) - GS/AR code
+*	Soul Blade (v1.0) (US) - GS/AR code
+*	Soul Blade (v1.1) (US) - GS/AR code 
+*	Soul Edge (JP) - GS/AR code 
+*	SpongeBob Squarepants Supersponge (US) - GS/AR code 
+*	Sports Car GT (DE) - GS/AR code
+*	Sports Car GT (FR) - GS/AR code
+*	Sports Car GT (UK) - GS/AR code
+*	Spyro 2 Ripto's Rage (US) - GS/AR code
+*	Spyro 2 Tondemo Tours (JP) - GS/AR code
+*	Spyro 3 Year of the Dragon (v1.0) (US) - GS/AR code
+*	Spyro 3 Year of the Dragon (v1.1) (US) - GS/AR code
+*	Spyro The Dragon (JP) - GS/AR code
+*	Spyro the Dragon (US) - GS/AR code
+*	Straight Victory (Hoshino Kazuyoshi e no Chousen) (JP) - GS/AR code
+*	Street Skater 2 (UK-FR-DE) - GS/AR code
+*	Tail Concerto (FR) - GS/AR code 
+*	Tail Concerto (US) - GS/AR code
+*	Tekken (UK) - GS/AR code 
+*	Tekken (US) - GS/AR code 
+*	Tekken (v1.0) (JP) - GS/AR code 
+*	Tekken (v1.1) (JP) - GS/AR code 
+*	Tekken 3 (UK) - GS/AR code
+*	Tekken 3 (US) - GS/AR code 
+*	Tenchu 2 Birth of the Stealth Assassins (US) - GS/AR code
+*	Tenchu Stealth Assassins (UK-FR-IT) - GS/AR code
+*	Tenchu Stealth Assassins (US) - GS/AR code
+*	TOCA World Touring Cars (IT-ES) - GS/AR code
+*	TOCA World Touring Cars (UK-FR-DE) - GS/AR code
+*	Tomb Raider (DE) - GS/AR code
+*	Tomb Raider (FR) - GS/AR code
+*	Tomb Raider (UK) - GS/AR code
+*	Tomb Raider (v1.0) (US) - GS/AR code
+*	Tomb Raider (v1.1-1.6) (US) - GS/AR code
+*	Tomb Raider 2 (DE) - GS/AR code
+*	Tomb Raider 2 (FR) - GS/AR code
+*	Tomb Raider 2 (IT) - GS/AR code
+*	Tomb Raider 2 (JP) - GS/AR code
+*	Tomb Raider 2 (UK) - GS/AR code
+*	Tomb Raider 2 (v1.0-1.3) (US) - GS/AR code
+*	Tomb Raiders (JP) - GS/AR code
+*	Tomba 2 The Evil Swine Return (US) - GS/AR code
+*	Tomba 2 The Wild Adventures (JP) - GS/AR code
+*	Tony Hawk's Pro Skater (US) - GS/AR code 
+*	Tony Hawk's Pro Skater 2 (DE) - GS/AR code 
+*	Tony Hawk's Pro Skater 2 (FR) - GS/AR code 
+*	Tony Hawk's Pro Skater 2 (UK) - GS/AR code 
+*	Tony Hawk's Pro Skater 2 (US) - GS/AR code 
+*	Tony Hawk's Skateboarding (UK) - GS/AR code 
+*	Treasures Of The Deep (DE) - GS/AR code 
+*	Treasures Of The Deep (ES) - GS/AR code 
+*	Treasures Of The Deep (FR) - GS/AR code 
+*	Treasures Of The Deep (UK) - GS/AR code 
+*	Treasures Of The Deep (US) - GS/AR code
+*	Trick'n Snowboarder (UK) - GS/AR code
+*	Tron Ni Kobun (JP) -  GS/AR code
+*	Urban Chaos (FR) - GS/AR code
+*	Vandal Hearts (UK-FR-DE) - GS/AR code
+*	Vandal Hearts (US) - GS/AR code
+*	Vandal Hearts II (ES) - GS/AR code
+*	Vandal Hearts II (UK-FR-DE) - GS/AR code
+*	Vandal Hearts II (US) - GS/AR code
+*	Vanishing Point (UK-FR-DE-ES) - GS/AR code
+*	Vigilante 8 (FR) - GS/AR code
+*	V-Rally Championship Edition 2 (UK-FR-DE) - GS/AR code
+*	Wild 9 (UK-FR-DE-IT-ES) - GS/AR code
+*	WipEout (US) - GS/AR code
+*	WipEout (v1.0 and v1.1) (UK) - GS/AR code
+*	WipEout 2097 (UK) - GS/AR code
+*	Wipeout XL (US) - GS/AR code
+*	WWF Smackdown (US) - GS/AR code
+
+[EOF]
