@@ -1,5 +1,75 @@
-Last archive update : 2018/03/11 (YYYY/MM/DD) 
+Last archive update : 2024/07/19 (YYYY/MM/DD) 
 ~shaolinassassin @https://forums.pcsx2.net/Thread-PSOne-Dithering-OFF-patches
+
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.0) [Chinese Translated] - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.0) - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.1) - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.2) [En by Gemini+Throughhim413 v1.0] - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.2) - PPF file
+*	Apocalypse (Europe) - PPF file
+*	Apocalypse (France) - PPF file
+*	Apocalypse (Germany) - PPF file
+*	Castlevania - Symphony of the Night (Europe) - PPF file
+*	Disneyn Tarzan (Finland) - PPF file
+*	Grandia - Prologue (Japan) (Demo) - PPF file
+*	Grandia (Europe) (Disc 1) - PPF file
+*	Grandia (Europe) (Disc 2) - PPF file
+*	Grandia (France) (Disc 1) - PPF file
+*	Grandia (France) (Disc 2) - PPF file
+*	Grandia (Japan) (Disc 1) - PPF file
+*	Grandia (Japan) (Disc 2) - PPF file
+*	LEGO Racers (Europe) - PPF file
+*	MediEvil (Europe) - PPF file
+*	MediEvil (France) - PPF file
+*	MediEvil (Germany) - PPF file
+*	MediEvil (Italy) - PPF file
+*	MediEvil (Spain) - PPF file
+*	MediEvil 2 (Europe) (En,Fr,De) - PPF file
+*	MediEvil 2 (Europe) (Es,It,Pt) - PPF file
+*	MediEvil 2 (Russia) - PPF file
+*	Metal Gear Solid - Integral (Japan) (En,Ja) (Disc 2) - PPF file
+*	Metal Gear Solid - Special Missions (Europe) (En,Fr,De,Es,It) - PPF file
+*	Metal Gear Solid - VR Missions (USA) (Demo) - PPF file
+*	Metal Gear Solid - VR Missions (USA) - PPF file
+*	Metal Gear Solid (Asia) (Disc 1) - PPF file
+*	Metal Gear Solid (Asia) (Disc 2) - PPF file
+*	Metal Gear Solid (Europe) (Demo) (v1.0) - PPF file
+*	Metal Gear Solid (Europe) (Demo) (v1.1) - PPF file
+*	Metal Gear Solid (Europe) (Disc 1) - PPF file
+*	Metal Gear Solid (Europe) (Disc 2) - PPF file
+*	Metal Gear Solid (France) (Disc 1) - PPF file
+*	Metal Gear Solid (France) (Disc 2) - PPF file
+*	Metal Gear Solid (Germany) (Disc 1) - PPF file
+*	Metal Gear Solid (Germany) (Disc 2) - PPF file
+*	Metal Gear Solid (Italy) (Disc 1) - PPF file
+*	Metal Gear Solid (Italy) (Disc 2) - PPF file
+*	Metal Gear Solid (Japan) (Demo 2) - PPF file
+*	Metal Gear Solid (Japan) (Disc 1) (Ichi) - PPF file
+*	Metal Gear Solid (Japan) (Disc 2) (Ni) - PPF file
+*	Metal Gear Solid (Spain) (Disc 1) (v1.0) - PPF file
+*	Metal Gear Solid (Spain) (Disc 1) (v1.1) - PPF file
+*	Metal Gear Solid (Spain) (Disc 2) (v1.0) - PPF file
+*	Metal Gear Solid (Spain) (Disc 2) (v1.1) - PPF file
+*	Metal Gear Solid (USA) (Disc 1) (v1.1) - PPF file
+*	Metal Gear Solid (USA) (Disc 2) (v1.0) - PPF file
+*	Metal Gear Solid (USA) (Disc 2) (v1.1) - PPF file
+*	Monkey Hero (Europe) (En,Fr,De,It) - PPF file
+*	Monkey Hero (USA) - PPF file
+*	Moto Racer (Europe) (En,Fr,De,Es,It,Sv) - PPF file
+*	Moto Racer (USA) - PPF file
+*	Moto Racer 2 (Europe) (En,Fr,De,Es,It,Sv) - PPF file
+*	Moto Racer 2 (USA) - PPF file
+*	Road Rash 3D (France) - PPF file
+*	V-Rally - Championship Edition 2 (Europe) - PPF file
+*	Vampire Hunter D (Europe) (En,Fr,De) - PPF file
+*	Vandal Hearts (Europe) (En,Fr,De) - PPF file
+*	Vandal Hearts (USA) - PPF file
+*	Vandal Hearts II (Europe) (En,Fr,De) - PPF file
+*	Vandal Hearts II (Spain) - PPF file
+*	Vandal Hearts II (USA) - PPF file
+*	Vanishing Point (Europe) - PPF file
+*	Vigilante 8 (France) - PPF file
+*	Wild Arms (France) - PPF file
 
 + 2018/03/11 - additions :
 *	Alien Resurrection (US) - GS/AR code fixed
@@ -29,7 +99,7 @@ Last archive update : 2018/03/11 (YYYY/MM/DD)
 *	Resident Evil (US) - GS/AR code
 *	Road Rash 3D (FR) - GS/AR code
 *	SpongeBob Squarepants Supersponge (US) - GS/AR code fixed
-*	Spyro 2 Ripto's Rage (US) - GS/AR code
+*	Spyro 2 Riptos Rage (US) - GS/AR code
 *	Spyro 2 Tondemo Tours (JP) - GS/AR code
 *	Spyro 3 Year of the Dragon (v1.0) (US) - GS/AR code
 *	Spyro 3 Year of the Dragon (v1.1) (US) - GS/AR code
@@ -86,7 +156,7 @@ codes).
 *	Tenchu Stealth Assassins (UK-FR-IT) - GS/AR code
 *	TOCA World Touring Cars (IT-ES) - GS/AR code
 *	TOCA World Touring Cars (UK-FR-DE) - GS/AR code
-*	Trick'n Snowboarder (UK) - GS/AR code
+*	Trickn Snowboarder (UK) - GS/AR code
 *	Urban Chaos (FR) - GS/AR code
 
 + 2018/02/16 - additions :
@@ -176,12 +246,12 @@ codes).
 *	Tekken (US) - GS/AR code 
 *	Tekken 3 (UK) - GS/AR code 
 *	Tekken 3 (US) - GS/AR code 
-*	Tony Hawk's Pro Skater (US) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (DE) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (FR) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (UK) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (US) - GS/AR code 
-*	Tony Hawk's Skateboarding (UK) - GS/AR code 
+*	Tony Hawks Pro Skater (US) - GS/AR code 
+*	Tony Hawks Pro Skater 2 (DE) - GS/AR code 
+*	Tony Hawks Pro Skater 2 (FR) - GS/AR code 
+*	Tony Hawks Pro Skater 2 (UK) - GS/AR code 
+*	Tony Hawks Pro Skater 2 (US) - GS/AR code 
+*	Tony Hawks Skateboarding (UK) - GS/AR code 
 *	Treasures Of The Deep (DE) - GS/AR code 
 *	Treasures Of The Deep (ES) - GS/AR code 
 *	Treasures Of The Deep (FR) - GS/AR code 
