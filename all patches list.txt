@@ -1,11 +1,19 @@
-PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD) 
+PSOne Dithering OFF Archive - All patches list - 2024/07/19 (YYYY/MM/DD) 
 ~shaolinassassin @https://forums.pcsx2.net/Thread-PSOne-Dithering-OFF-patches
 
 *	Ace Combat 3 Electrosphere (UK-FR-DE-IT-ES) - GS/AR code
 *	Akuji The Heartless (UK-FR-DE) - GS/AR code
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.0) - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.0) [Chinese Translated] - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.1) - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.2) - PPF file
+*	Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (v1.2) [En by Gemini+Throughhim413 v1.0] - PPF file
 *	Alien Resurrection (US) - GS/AR code
 *	Apocalypse (DE) - GS/AR code
+*	Apocalypse (Europe) - PPF file
 *	Apocalypse (FR) - GS/AR code
+*	Apocalypse (France) - PPF file
+*	Apocalypse (Germany) - PPF file
 *	Apocalypse (UK) - GS/AR code
 *	Apocalypse (US) - GS/AR code
 *	Army Men World War Final Front (US) - GS/AR code
@@ -13,6 +21,7 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Biohazard Gunsurvivor (JP) - GS/AR code
 *	Boombots (US) - GS/AR code
 *	C3 Racing (UK-FR-DE-IT-ES) - GS/AR code
+*	Castlevania - Symphony of the Night (Europe) - PPF file
 *	Castlevania Chronicle (Akumajou Dracula) (JP) - GS/AR code
 *	Castlevania Symphony of the Night (Akumajou Dracula X Gekka no Yasoukyoku) (JP) - GS/AR code
 *	Castlevania Symphony of the Night (US) - GS/AR code & Hex code for ELF file & Hex code for iso file
@@ -40,6 +49,7 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Devil man (JP) - GS/AR code
 *	Dino Crisis (US) - GS/AR code
 *	Disneyn Tarzan (FI) - GS/AR code
+*	Disneyn Tarzan (Finland) - PPF file
 *	Driver (DE) - GS/AR code
 *	Driver (ES) - GS/AR code
 *	Driver (FR) - GS/AR code 
@@ -64,7 +74,14 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Gran Turismo (v1.0) (US) -  GS/AR code
 *	Gran Turismo (v1.1) (US) -  GS/AR code 
 *	Gran Turismo 2 (UK-FR-DE-IT-ES) -  GS/AR code
+*	Grandia - Prologue (Japan) (Demo) - PPF file
+*	Grandia (Europe) (Disc 1) - PPF file
+*	Grandia (Europe) (Disc 2) - PPF file
 *	Grandia (FR) - GS/AR code
+*	Grandia (France) (Disc 1) - PPF file
+*	Grandia (France) (Disc 2) - PPF file
+*	Grandia (Japan) (Disc 1) - PPF file
+*	Grandia (Japan) (Disc 2) - PPF file
 *	Grandia (JP) - GS/AR code
 *	Grandia (UK) - GS/AR code
 *	Grandia (US) - GS/AR code
@@ -73,25 +90,66 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Legacy of Kain Soul Reaver (UK) - GS/AR code
 *	Legacy of Kain Soul Reaver (US) - GS/AR code
 *	LEGO Racers (DA-DU-UK-FI-FR-DE-IT-NW-ES-SW) - GS/AR code
+*	LEGO Racers (Europe) - PPF file
 *	Lucky Luke Western Fever (UK-FR-DE-IT-ES-NL) - GS/AR code
 *	Max Power Racing (UK) - GS/AR code
 *	Medal of Honor (UK) - GS/AR code
 *	Medal of Honor (US) - GS/AR code
+*	MediEvil (Europe) - PPF file
 *	MediEvil (FR) - GS/AR code (ASM)
+*	MediEvil (France) - PPF file
+*	MediEvil (Germany) - PPF file
+*	MediEvil (Italy) - PPF file
 *	MediEvil (Regist. Us. Demo 02) (UK) -  GS/AR code
+*	MediEvil (Spain) - PPF file
+*	MediEvil 2 (Europe) (En,Fr,De) - PPF file
+*	MediEvil 2 (Europe) (Es,It,Pt) - PPF file
+*	MediEvil 2 (Russia) - PPF file
 *	MediEvil 2 (US) - GS/AR code
+*	Metal Gear Solid - Integral (Japan) (En,Ja) (Disc 2) - PPF file
+*	Metal Gear Solid - Special Missions (Europe) (En,Fr,De,Es,It) - PPF file
+*	Metal Gear Solid - VR Missions (USA) - PPF file
+*	Metal Gear Solid - VR Missions (USA) (Demo) - PPF file
+*	Metal Gear Solid (Asia) (Disc 1) - PPF file
+*	Metal Gear Solid (Asia) (Disc 2) - PPF file
 *	Metal Gear Solid (DE) - GS/AR code (ASM)
 *	Metal Gear Solid (ES) - GS/AR code (ASM)
+*	Metal Gear Solid (Europe) (Demo) (v1.0) - PPF file
+*	Metal Gear Solid (Europe) (Demo) (v1.1) - PPF file
+*	Metal Gear Solid (Europe) (Disc 1) - PPF file
+*	Metal Gear Solid (Europe) (Disc 2) - PPF file
 *	Metal Gear Solid (FR) - GS/AR code (no-ASM version)
+*	Metal Gear Solid (France) (Disc 1) - PPF file
+*	Metal Gear Solid (France) (Disc 2) - PPF file
+*	Metal Gear Solid (Germany) (Disc 1) - PPF file
+*	Metal Gear Solid (Germany) (Disc 2) - PPF file
 *	Metal Gear Solid (IT) - GS/AR code (ASM)
+*	Metal Gear Solid (Italy) (Disc 1) - PPF file
+*	Metal Gear Solid (Italy) (Disc 2) - PPF file
+*	Metal Gear Solid (Japan) (Demo 2) - PPF file
+*	Metal Gear Solid (Japan) (Disc 1) (Ichi) - PPF file
+*	Metal Gear Solid (Japan) (Disc 2) (Ni) - PPF file
+*	Metal Gear Solid (Spain) (Disc 1) (v1.0) - PPF file
+*	Metal Gear Solid (Spain) (Disc 1) (v1.1) - PPF file
+*	Metal Gear Solid (Spain) (Disc 2) (v1.0) - PPF file
+*	Metal Gear Solid (Spain) (Disc 2) (v1.1) - PPF file
 *	Metal Gear Solid (UK) - GS/AR code (ASM)
+*	Metal Gear Solid (USA) (Disc 1) (v1.1) - PPF file
+*	Metal Gear Solid (USA) (Disc 2) (v1.0) - PPF file
+*	Metal Gear Solid (USA) (Disc 2) (v1.1) - PPF file
 *	Metal Gear Solid (v1.0) (US) - GS/AR code (ASM)
 *	Metal Gear Solid (v1.1) (US) - GS/AR code (ASM)
 *	Misadventures of Tron Bonne (UK) - GS/AR code
 *	Mobil 1 Rally Championship (UK-FR-DE-IT-ES) - GS/AR code
+*	Monkey Hero (Europe) (En,Fr,De,It) - PPF file
 *	Monkey Hero (UK-FR-DE-IT) - GS/AR code
 *	Monkey Hero (US) - GS/AR code
+*	Monkey Hero (USA) - PPF file
+*	Moto Racer (Europe) (En,Fr,De,Es,It,Sv) - PPF file
+*	Moto Racer (USA) - PPF file
+*	Moto Racer 2 (Europe) (En,Fr,De,Es,It,Sv) - PPF file
 *	Moto Racer 2 (UK-FR-DE-IT-ES-SW) - GS/AR code
+*	Moto Racer 2 (USA) - PPF file
 *	Motocross Mania (US) - GS/AR code
 *	Motor Toon Grand Prix (JP) - GS/AR code
 *	N-Gen Racing (UK-FR-DE-IT-ES) - GS/AR code
@@ -105,6 +163,7 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Ridge Racer Hi-Spec (UK) - GS/AR code
 *	Ridge Racer Type 4 (UK-FR-DE-IT-ES) - GS/AR code
 *	Road Rash 3D (FR) - GS/AR code
+*	Road Rash 3D (France) - PPF file
 *	Roadsters (UK-FR-DE-IT-ES) - GS/AR code
 *	Silent Hill (UK-FR-DE-IT-ES) - GS/AR code
 *	Silent Hill (US) - GS/AR code
@@ -116,7 +175,7 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Sports Car GT (DE) - GS/AR code
 *	Sports Car GT (FR) - GS/AR code
 *	Sports Car GT (UK) - GS/AR code
-*	Spyro 2 Ripto's Rage (US) - GS/AR code
+*	Spyro 2 Ripto
 *	Spyro 2 Tondemo Tours (JP) - GS/AR code
 *	Spyro 3 Year of the Dragon (v1.0) (US) - GS/AR code
 *	Spyro 3 Year of the Dragon (v1.1) (US) - GS/AR code
@@ -151,29 +210,39 @@ PSOne Dithering OFF Archive - All patches list - 2018/03/11 (YYYY/MM/DD)
 *	Tomb Raiders (JP) - GS/AR code
 *	Tomba 2 The Evil Swine Return (US) - GS/AR code
 *	Tomba 2 The Wild Adventures (JP) - GS/AR code
-*	Tony Hawk's Pro Skater (US) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (DE) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (FR) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (UK) - GS/AR code 
-*	Tony Hawk's Pro Skater 2 (US) - GS/AR code 
-*	Tony Hawk's Skateboarding (UK) - GS/AR code 
+*	Tony Hawk
+*	Tony Hawk
+*	Tony Hawk
+*	Tony Hawk
+*	Tony Hawk
+*	Tony Hawk
 *	Treasures Of The Deep (DE) - GS/AR code 
 *	Treasures Of The Deep (ES) - GS/AR code 
 *	Treasures Of The Deep (FR) - GS/AR code 
 *	Treasures Of The Deep (UK) - GS/AR code 
 *	Treasures Of The Deep (US) - GS/AR code
-*	Trick'n Snowboarder (UK) - GS/AR code
+*	Trick
 *	Tron Ni Kobun (JP) -  GS/AR code
 *	Urban Chaos (FR) - GS/AR code
+*	V-Rally - Championship Edition 2 (Europe) - PPF file
+*	V-Rally Championship Edition 2 (UK-FR-DE) - GS/AR code
+*	Vampire Hunter D (Europe) (En,Fr,De) - PPF file
+*	Vandal Hearts (Europe) (En,Fr,De) - PPF file
 *	Vandal Hearts (UK-FR-DE) - GS/AR code
 *	Vandal Hearts (US) - GS/AR code
+*	Vandal Hearts (USA) - PPF file
 *	Vandal Hearts II (ES) - GS/AR code
+*	Vandal Hearts II (Europe) (En,Fr,De) - PPF file
+*	Vandal Hearts II (Spain) - PPF file
 *	Vandal Hearts II (UK-FR-DE) - GS/AR code
 *	Vandal Hearts II (US) - GS/AR code
+*	Vandal Hearts II (USA) - PPF file
+*	Vanishing Point (Europe) - PPF file
 *	Vanishing Point (UK-FR-DE-ES) - GS/AR code
 *	Vigilante 8 (FR) - GS/AR code
-*	V-Rally Championship Edition 2 (UK-FR-DE) - GS/AR code
+*	Vigilante 8 (France) - PPF file
 *	Wild 9 (UK-FR-DE-IT-ES) - GS/AR code
+*	Wild Arms (France) - PPF file
 *	WipEout (US) - GS/AR code
 *	WipEout (v1.0 and v1.1) (UK) - GS/AR code
 *	WipEout 2097 (UK) - GS/AR code
