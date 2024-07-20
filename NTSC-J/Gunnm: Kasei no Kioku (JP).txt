@@ -1,12 +1,12 @@
 Disable dithering hack
 $SAFEMODE
 
-#Soul Edge (JP) (SLPS 00555)
+#Gunnm: Kasei no Kioku (JP)
 ----------------------------------------------------------------------------------------
 GAMESHARK/ACTION REPLAY CODES by demilich
 ----------------------------------------------------------------------------------------
 //Disable dithering
-8001335C 0000 // E1000200 - background 
+80069D90 0000 
 
 ----------------------------------------------------------------------------------------
 HEXADECIMAL VALUES by 

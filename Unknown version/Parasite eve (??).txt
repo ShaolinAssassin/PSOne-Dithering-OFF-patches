@@ -1,12 +1,13 @@
 Disable dithering hack
 $SAFEMODE
 
-#Soul Edge (JP) (SLPS 00555)
+#Parasite eve (??)
 ----------------------------------------------------------------------------------------
-GAMESHARK/ACTION REPLAY CODES by demilich
+GAMESHARK/ACTION REPLAY CODES by cuttsj/Chris Covell
 ----------------------------------------------------------------------------------------
 //Disable dithering
-8001335C 0000 // E1000200 - background 
+80067134 0400
+
 
 ----------------------------------------------------------------------------------------
 HEXADECIMAL VALUES by 

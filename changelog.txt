@@ -1,5 +1,31 @@
-Last archive update : 2024/07/19 (YYYY/MM/DD) 
+Last archive update : 2024/07/20 (YYYY/MM/DD) 
 ~shaolinassassin @https://forums.pcsx2.net/Thread-PSOne-Dithering-OFF-patches
+
++ 2024/07/20 (pcsx forum thread pages 8 & 9) - addictions : 
+*	40 Winks (US)
+*	Croc 2 (US)
+*	Croc! Pau-Pau Island (JP)
+*	Dino Crisis 2 (US)
+*	Fighting Force (US)
+*	Gran Turismo 2 Simulation Mode (v1.2) (US)
+*	Gunnm: Kasei no Kioku (JP)
+*	Kaze No Klonoa (JP)
+*	Magic Castle (JP)
+*	Mizzurna Falls (JP)
+*	Moon Remix RPG Adventure (JP)
+*	OverBlood (JP)
+*	Overblood (US)
+*	OverBlood 2 (JP)
+*	Parasite eve (??)
+*	Shiritsu Justice Gakuen Legion of Heroes (Disc 1) (JP)
+*	Silent Hill (JP)
+*	Soul Edge (JP)
+*	South Park (US)
+*	Spiderman (US)
+*	Toy Story 2 (US)
+*	Vagrant Story (US)
+*	Valkyrie Profile (??)
+*	Vigilante 8 (US)
 
 + 2024/07/19 (pcsx-forum thread page 7) - addictions :
 *	Bushido Blade (US) - GS/AR code

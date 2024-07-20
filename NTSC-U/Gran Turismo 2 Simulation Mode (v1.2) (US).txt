@@ -1,12 +1,14 @@
 Disable dithering hack
 $SAFEMODE
 
-#Soul Edge (JP) (SLPS 00555)
+#Gran Turismo 2 Simulation Mode v1.2 (US) (SCUS-94488)
 ----------------------------------------------------------------------------------------
-GAMESHARK/ACTION REPLAY CODES by demilich
+GAMESHARK/ACTION REPLAY CODES by 2007excalibur2007
 ----------------------------------------------------------------------------------------
 //Disable dithering
-8001335C 0000 // E1000200 - background 
+30067D59 0000
+30067FAD 0000
+80080270 0000
 
 ----------------------------------------------------------------------------------------
 HEXADECIMAL VALUES by 
